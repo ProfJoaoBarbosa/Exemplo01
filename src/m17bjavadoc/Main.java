@@ -22,6 +22,9 @@ public class Main {
       int c;
       System.out.println(l);
       s = l.resumo();
+      // Um comentário qualquer...
+      // e mais outro comentário.
+      System.out.println(s);
       c = carateres(s);
       System.out.println(c);
    }
